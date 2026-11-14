@@ -1,8 +1,10 @@
-# claude-md-generator
+# agent-instructions-file-builder
+
+Formerly claude-md-generator. The old repository address redirects here. The old live page address forwards to the new one.
 
 Interactive builder for the per-project markdown file every coding agent should read first. Outputs `CLAUDE.md` (Claude Code) or `AGENTS.md` (general convention). Browser only.
 
-**Live demo:** https://0xelitesystem.github.io/claude-md-generator/
+**Live demo:** https://0xelitesystem.github.io/agent-instructions-file-builder/
 
 ## Use
 
@@ -51,8 +53,8 @@ The page makes no network requests. What you type is not saved; Copy writes to y
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/claude-md-generator
-cd claude-md-generator
+git clone https://github.com/0xelitesystem/agent-instructions-file-builder
+cd agent-instructions-file-builder
 ```
 
 Open `index.html` in a browser. Or:
