@@ -90,5 +90,5 @@ Independent project. Not affiliated with, endorsed by, or sponsored by Anthropic
 ## Related
 
 - [stack-rules-for-coding-agents](https://github.com/0xelitesystem/stack-rules-for-coding-agents) - examples by stack
-- [agentic-workflow-patterns](https://github.com/0xelitesystem/agentic-workflow-patterns) - shared-context-files pattern
+- [coding-agent-work-patterns](https://github.com/0xelitesystem/coding-agent-work-patterns) - shared-context-files pattern
 - [ai-coding-prompt-recipes](https://github.com/0xelitesystem/ai-coding-prompt-recipes) - prompts that work with a good context file
